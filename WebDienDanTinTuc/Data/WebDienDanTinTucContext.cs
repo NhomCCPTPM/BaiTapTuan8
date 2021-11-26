@@ -19,5 +19,7 @@ namespace WebDienDanTinTuc.Data
         public DbSet<AccountType> AccountTypes { get; set; }
 
         public DbSet<WebDienDanTinTuc.Models.Comment> Comment { get; set; }
+
+        public DbSet<WebDienDanTinTuc.Models.Post> Post { get; set; }
     }
 }
