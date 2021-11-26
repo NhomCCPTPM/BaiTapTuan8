@@ -21,5 +21,7 @@ namespace WebDienDanTinTuc.Data
         public DbSet<WebDienDanTinTuc.Models.Comment> Comment { get; set; }
 
         public DbSet<WebDienDanTinTuc.Models.Post> Post { get; set; }
+
+        public DbSet<WebDienDanTinTuc.Models.Theme> Theme { get; set; }
     }
 }

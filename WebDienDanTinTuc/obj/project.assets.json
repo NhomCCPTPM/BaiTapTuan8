@@ -7148,19 +7148,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vinhl\\.nuget\\packages\\": {}
+    "C:\\Users\\Khang Thai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
+      "projectUniqueName": "C:\\Users\\Khang Thai\\Downloads\\Demo\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
       "projectName": "WebDienDanTinTuc",
-      "projectPath": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
-      "packagesPath": "C:\\Users\\vinhl\\.nuget\\packages\\",
-      "outputPath": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\obj\\",
+      "projectPath": "C:\\Users\\Khang Thai\\Downloads\\Demo\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
+      "packagesPath": "C:\\Users\\Khang Thai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Khang Thai\\Downloads\\Demo\\WebDienDanTinTuc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vinhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Khang Thai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7219,7 +7219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
