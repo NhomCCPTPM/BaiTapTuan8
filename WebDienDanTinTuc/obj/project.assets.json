@@ -7148,19 +7148,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\vinhl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CCPTPM\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
+      "projectUniqueName": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
       "projectName": "WebDienDanTinTuc",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\CCPTPM\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\CCPTPM\\WebDienDanTinTuc\\obj\\",
+      "projectPath": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\WebDienDanTinTuc.csproj",
+      "packagesPath": "C:\\Users\\vinhl\\.nuget\\packages\\",
+      "outputPath": "D:\\Le_Vinh_Tan\\New folder (2)\\WebDienDanTinTuc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vinhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7168,8 +7168,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "G:\\Package": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
